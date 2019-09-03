@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Андрей  Захаров](https://up.htmlacademy.ru/htmlcss/26/user/1034111).
-* Наставник: `Неизвестно`.
+* Наставник:[Ирина Малиновская](https://htmlacademy.ru/profile/irina-malinovskaya).
 
 ---
 
